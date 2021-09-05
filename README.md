@@ -4,4 +4,4 @@ In this project we are trying to extract text from PDF, clean it, run it via an 
 
 The libraries used in this project includes: 
 
-Pandas | matplotlib | Seaborn | NumPy | Geopandas | SpaCy | PyPDF2 | 
+Pandas | Matplotlib | Seaborn | NumPy | Geopandas | SpaCy | PyPDF2 | 
